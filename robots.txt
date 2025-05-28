@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.iohttps://benji-better.github.io//sitemap.xml
+Sitemap: https://benji-better.github.io/portfolio2//sitemap.xml
